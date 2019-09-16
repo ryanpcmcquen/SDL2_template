@@ -21,10 +21,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="config.h">
-      <Filter>Header Files</Filter>
+      <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Makefile" />
+    <None Include="README.org">
+      <Filter>Source Files</Filter>
+    </None>
   </ItemGroup>
 </Project>

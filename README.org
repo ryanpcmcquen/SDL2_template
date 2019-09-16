@@ -1,15 +1,7 @@
 This project compiles under Linux, Mac OS, and Windows simply by running:
 
-**** Linux & Mac:
-
 #+BEGIN_SRC
 make
-#+END_SRC
-
-**** Windows:
-
-#+BEGIN_SRC
-nmake
 #+END_SRC
 
 Pre-setup:
@@ -41,3 +33,5 @@ Profit.
 
 Special thanks to this tutorial:
 https://headerphile.com/sdl2/sdl2-part-0-setting-up-visual-studio-for-sdl2/
+
+Bonus: This project is importable as a Visual Studio 2019 template.

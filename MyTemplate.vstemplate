@@ -18,7 +18,7 @@
       <ProjectItem ReplaceParameters="false" TargetFileName="$projectname$.vcxproj.filters">SDL2_template.vcxproj.filters</ProjectItem>
       <ProjectItem ReplaceParameters="false" TargetFileName="main.c">main.c</ProjectItem>
       <ProjectItem ReplaceParameters="false" TargetFileName="config.h">config.h</ProjectItem>
-      <ProjectItem ReplaceParameters="false" TargetFileName="Makefile">Makefile</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="README.org">README.org</ProjectItem>
     </Project>
   </TemplateContent>
 </VSTemplate>
