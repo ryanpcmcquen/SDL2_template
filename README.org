@@ -1,7 +1,15 @@
 This project compiles under Linux, Mac OS, and Windows simply by running:
 
+**** Linux & Mac:
+
 #+BEGIN_SRC
 make
+#+END_SRC
+
+**** Windows:
+
+#+BEGIN_SRC
+nmake
 #+END_SRC
 
 Pre-setup:
