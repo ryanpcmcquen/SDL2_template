@@ -1,0 +1,35 @@
+This project compiles under Linux, Mac OS, and Windows simply by running:
+
+#+BEGIN_SRC
+make
+#+END_SRC
+
+Pre-setup:
+
+*** Linux:
+
+#+BEGIN_SRC
+sudo apt-get install libsdl2-dev
+#+END_SRC
+
+Or whatever the equivalent package is for your distro.
+
+*** Mac:
+
+#+BEGIN_SRC
+brew install sdl2
+#+END_SRC
+
+*** Windows:
+
+Download the latest VC development files from: https://libsdl.org
+
+Place the entire contents of ~include~ and ~lib~ under ~C:\SDL\SDL2~.
+
+Copy the ~SDL2.dll~ under ~lib~ to ~C:\Windows\System32~ and ~C:\Windows\SysWOW64~.
+
+Profit.
+
+
+Special thanks to this tutorial:
+https://headerphile.com/sdl2/sdl2-part-0-setting-up-visual-studio-for-sdl2/
