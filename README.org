@@ -38,8 +38,9 @@ Copy the ~SDL2.dll~ under ~lib~ to ~C:\Windows\System32~ and ~C:\Windows\SysWOW6
 
 Profit.
 
+-----
 
 Special thanks to this tutorial:
 https://headerphile.com/sdl2/sdl2-part-0-setting-up-visual-studio-for-sdl2/
 
-Bonus: This project is importable as a Visual Studio 2019 template.
+*Bonus*: This project is importable as a Visual Studio 2019 template.
