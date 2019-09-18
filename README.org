@@ -12,7 +12,9 @@ make
 nmake
 #+END_SRC
 
-Pre-setup:
+-----
+
+** Pre-setup:
 
 *** Linux:
 
