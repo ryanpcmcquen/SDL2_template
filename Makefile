@@ -6,7 +6,7 @@ TITLE=main
 CP=copy # \
 MV=move # \
 RM=del # \
-TARGET=-I C:\SDL -L C:\SDL\SDL2 -l SDL2.lib -l SDL2main.lib -Xlinker /SUBSYSTEM:WINDOWS -o $(TITLE).exe # \
+TARGET=-I C:\INCLUDE -L C:\INCLUDE\SDL2 -l SDL2.lib -l SDL2main.lib -Xlinker /SUBSYSTEM:WINDOWS -o $(TITLE).exe # \
 !else
 # make:
 CP=cp -f

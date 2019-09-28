@@ -34,7 +34,7 @@ brew install sdl2
 
 Download the latest VC development files from: https://libsdl.org
 
-Place the entire contents of ~include~ and ~lib~ under ~C:\SDL\SDL2~.
+Place the entire contents of ~include~ and ~lib~ under ~C:\INCLUDE\SDL2~.
 
 Copy the ~SDL2.dll~ under ~lib~ to ~C:\Windows\System32~ and ~C:\Windows\SysWOW64~.
 

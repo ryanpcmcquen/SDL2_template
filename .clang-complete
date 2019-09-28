@@ -1,0 +1,7 @@
+-Wall
+-std=c99
+-I /usr/include/SDL2 -D_REENTRANT
+-I /usr/local/include/SDL2 -D_THREAD_SAFE
+-L /usr/local/lib
+-I C:\INCLUDE
+-L C:\INCLUDE\SDL2
