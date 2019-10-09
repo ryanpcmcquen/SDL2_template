@@ -16,5 +16,5 @@ TARGET=`sdl2-config --cflags --libs` -o $(TITLE)
 # \
 !endif
 
-$(TITLE): $(TITLE).c
+$(TITLE): *.c *.h
 	$(CC) $(TITLE).c -Wall -std=c99 $(TARGET)
