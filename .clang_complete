@@ -1,5 +1,4 @@
 -Wall
--std=c99
 -I /usr/include/SDL2
 -I /usr/local/include/SDL2
 -I C:\INCLUDE
